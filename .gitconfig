@@ -1,0 +1,10 @@
+[user]
+	name = Don Husa
+	email = donhusa@fb.com
+
+[alias]
+	st = status
+	br = branch -v --color
+	sh = show --color
+	df = diff --color
+	l  = log --graph
